@@ -1,0 +1,10 @@
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.exe.config
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.exe
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.pdb
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.Form1.resources
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.Properties.Resources.resources
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.exe
+C:\Users\Kadir\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.pdb
